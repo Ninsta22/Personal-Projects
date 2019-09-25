@@ -1,4 +1,4 @@
-# Personal-Projects
+# Tron-Dodgeball
 
 PURPOSE OF THE PROJECT:
 During senior year, I decided I was going to code a game. This was performed by learning how Java could create a game 
